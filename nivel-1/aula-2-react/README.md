@@ -26,13 +26,13 @@
 
 ## 💻 Project
 
-Projeto para criação do frontend utilizando ReactJS e consumindo a API desenvolvida anteriormente na [aula-1-nodejs][aula-1].
+Projeto para criação do frontend utilizando ReactJS e consumindo a API desenvolvida anteriormente na [aula-1](../aula-1-nodejs).
 
 ## 🚀 Instalação e execução
 ⚠️ ATENÇÂO! ⚠️
 
 É necessário rodar o backend criado anteriormente 
-na [aula-1][aula-1]
+na [aula-1](../aula-1-nodejs).
 
 1. Faça um clone desse repositório;
 2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-1/aula-2-react`;
