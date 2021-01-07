@@ -13,7 +13,7 @@
     <img alt="Made by Guilherme Julio" src="https://img.shields.io/badge/made--by-Guilherme%20Julio-green">
   </a>
   
-  <a href="https://github.com/DanielObara/bootcamp-gostack-exercicios/commits/master">
+  <a href="https://github.com/guilhermejulio/gostack-exercicios/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/guilhermejulio/gostack-exercicios">
   </a>
 
