@@ -1,4 +1,4 @@
-<img alt="GoStack" src=".github/GoStackBanner.png" />
+<img alt="GoStack" src="../.github/GoStackBanner.png"/>
 
 <h2 align="center">
   Exercícios das aulas Bootcamp GoStack 🚀
