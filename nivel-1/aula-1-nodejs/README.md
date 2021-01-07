@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack" src="../.github/bootcamp-header.png" width="200px" />
+    <img alt="GoStack" src="../../.github/bootcamp-header.png" width="200px" />
 </h1>
 
 <h3 align="center">
