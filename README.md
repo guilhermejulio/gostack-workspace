@@ -9,7 +9,7 @@
 - ### NIVEL 1
 - [01 - Back-end com Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-1-nodejs) 🚀 Done :heavy_check_mark:
 - [02 - Front-end com React.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-2-react) 🚀 Done :heavy_check_mark:
-- [03 - Mobile com React Native](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-3-react-native) :construction: In progress.. :construction:
+- [03 - Mobile com React Native](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-3-react-native) 🚀 Done :heavy_check_mark:
 - [04 - TypeScript]() :construction: In progress.. :construction:
 - ### NIVEL 2 
 - [05 - Primeiro projeto com Node.js]() :construction: In progress.. :construction:
