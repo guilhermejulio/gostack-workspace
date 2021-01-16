@@ -11,7 +11,7 @@
 - [02 - Front-end com React.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-2-react) 🚀 Done :heavy_check_mark:
 
 - [03 - Mobile com React Native](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-3-react-native) 🚀 Done :heavy_check_mark:
-- [04 - TypeScript](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-4-typescript) :construction: In progress.. :construction:
+- [04 - TypeScript](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-4-typescript) 🚀 Done :heavy_check_mark:
 
 ## :open_book: Notion com anotações de cada aula:
 
