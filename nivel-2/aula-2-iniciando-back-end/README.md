@@ -29,6 +29,14 @@
 
 As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion.so/Iniciando-o-back-end-do-App-5a70acb0cfae44b5ada89ece13bd3376).
 
+## 🚀 Instalação e execução
+
+1. Faça um clone desse repositório;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-2/aula-2-iniciando-back-end`;
+3. Rode `yarn` para instalar as dependências;
+4. Rode `yarn dev:server` para iniciar o servidor.
+
+Obs. Necessário ter também o banco de dados, foi usado o PostgreSQL, veja as anotações.
 
 ## :memo: Licença
 
