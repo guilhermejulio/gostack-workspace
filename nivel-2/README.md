@@ -8,7 +8,7 @@
 
 - [01 - Primeiro Projeto Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/aula-1-primeiro-projeto-node) 🚀 Done :heavy_check_mark:
 
-- [02 - Iniciando o back-end do app](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/aula-2-iniciando-back-end) In progress.. :construction:
+- [02 - Iniciando o back-end do app](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/aula-2-iniciando-back-end) 🚀 Done :heavy_check_mark:
 
 ## :open_book: Notion com anotações de cada aula:
 
