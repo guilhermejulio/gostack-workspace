@@ -6,7 +6,7 @@
   Primeiro projeto com React
 </h3>
 
-<p align="center">Código do terceiro módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do primeiro módulo do terceiro nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermejulio/">
@@ -32,7 +32,7 @@ As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-3/aula-1-primeiro-projeto-node`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-3/aula-1-primeiro-projeto-react`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn start` para iniciar o servidor.
 
