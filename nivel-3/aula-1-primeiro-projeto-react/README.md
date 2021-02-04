@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Front-end com ReactJS
+  Primeiro projeto com React
 </h3>
 
-<p align="center">Código do segundo módulo do primeiro nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do primeiro módulo do terceiro nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermejulio/">
@@ -24,23 +24,18 @@
 <hr>
 <br/>
 
-## 💻 Project
+   
+## ℹ️ Informações extras
 
-Projeto para criação do frontend utilizando ReactJS e consumindo a API desenvolvida anteriormente na [aula-1](../aula-1-nodejs).
+As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion.so/Primeiro-Projeto-com-React-e823ce10436a4855a03369f6caac8454).
 
 ## 🚀 Instalação e execução
-⚠️ ATENÇÂO! ⚠️
-
-É necessário rodar o backend criado anteriormente 
-na [aula-1](../aula-1-nodejs).
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-1/aula-2-react`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-3/aula-1-primeiro-projeto-react`;
 3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn dev` para iniciar o servidor.
+4. Rode `yarn start` para iniciar o servidor.
 
-## ℹ️ Informações extras
-As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion.so/Front-end-com-ReactJS-1f17dc451d124e64aa44213c97c69648).
 
 ## :memo: Licença
 

@@ -6,7 +6,7 @@
   Iniciando o back-end do App.
 </h3>
 
-<p align="center">Código do segundo módulo do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do segundo módulo do segundo nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermejulio/">

@@ -15,7 +15,7 @@
 - [05 - Primeiro projeto com Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/primeiro-projeto-node) 🚀 Done :heavy_check_mark:
 - [06 - Iniciando Back-end do app](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/aula-2-iniciando-back-end) 🚀 Done :heavy_check_mark:
 - ### NIVEL 3
-- [07 - Primeiro projeto com React]() :construction: In progress.. :construction:
+- [07 - Primeiro projeto com React](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/aula-1-primeiro-projeto-react) 🚀 Done :heavy_check_mark:
 - [08 - Iniciando Front-end Web]() :construction: In progress.. :construction:
 - [09 - Iniciando Aplicativo Mobile]() :construction: In progress.. :construction:
 - ### NIVEL 4
