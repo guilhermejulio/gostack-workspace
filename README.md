@@ -13,7 +13,7 @@
 - [04 - TypeScript](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-4-typescript) 🚀 Done :heavy_check_mark:
 - ### NIVEL 2 
 - [05 - Primeiro projeto com Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/primeiro-projeto-node) 🚀 Done :heavy_check_mark:
-- [06 - Iniciando Back-end do app](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/aula-2-iniciando-back-end) 🚀 Done :heavy_check_mark:
+- [06 - Iniciando Back-end do app - Go Barber](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/aula-2-iniciando-back-end) 🚀 Done :heavy_check_mark:
 - ### NIVEL 3
 - [07 - Primeiro projeto com React](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/aula-1-primeiro-projeto-react) 🚀 Done :heavy_check_mark:
 - [08 - Iniciando front-end web - Go Barber](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/02-gobarber-web) 🚀 Done :heavy_check_mark:
