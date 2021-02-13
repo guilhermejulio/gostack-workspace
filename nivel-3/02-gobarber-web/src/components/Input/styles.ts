@@ -1,4 +1,5 @@
 import styled, { css } from 'styled-components';
+
 import Tooltip from '../Tooltip';
 
 interface ContainerProps {
@@ -12,13 +13,10 @@ export const Container = styled.div<ContainerProps>`
   border-radius: 10px;
   padding: 16px;
   width: 100%;
-
   border: 2px solid #232129;
   color: #666360;
-
   display: flex;
   align-items: center;
-
   & + div {
     margin-top: 8px;
   }
@@ -27,7 +25,6 @@ export const Container = styled.div<ContainerProps>`
     css`
       border-color: #c53030;
     `}
-
   ${props =>
     props.isFocused &&
     css`
@@ -39,7 +36,6 @@ export const Container = styled.div<ContainerProps>`
     css`
       color: #ff9000;
     `}
-
   input {
     flex: 1;
     background: transparent;
@@ -49,7 +45,6 @@ export const Container = styled.div<ContainerProps>`
       color: #666360;
     }
   }
-
   svg {
     margin-right: 16px;
   }
