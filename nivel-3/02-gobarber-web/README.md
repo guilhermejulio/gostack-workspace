@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Primeiro projeto com React
+  Iniciando front-end web - Go Barber
 </h3>
 
-<p align="center">Código do primeiro módulo do terceiro nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do segundo módulo do terceiro nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermejulio/">
@@ -27,7 +27,7 @@
    
 ## ℹ️ Informações extras
 
-As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion.so/Primeiro-Projeto-com-React-e823ce10436a4855a03369f6caac8454).
+As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion.so/Iniciando-front-end-do-App-b12e585bde134f4f848d72011a572c97)
 
 ## 🚀 Instalação e execução
 
