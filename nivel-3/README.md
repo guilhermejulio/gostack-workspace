@@ -6,9 +6,11 @@
 
 ## Índice das aulas do NÍVEL 3
 
-- [01 - Primeiro Projeto com React](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/aula-1-primeiro-projeto-react) 🚀 Done :heavy_check_mark:
+- [01 - Primeiro Projeto com React](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/01-primeiro-projeto-react) 🚀 Done :heavy_check_mark:
 
-- [02 - Iniciando front-end web - Go Barber](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/02-gobarber-web) 🚀 Done 
+- [02 - Iniciando front-end web - Go Barber](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/02-gobarber-web) 🚀 Done :heavy_check_mark:
+
+- [02 - Iniciando App Mobile - Go Barber App](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/02-gobarber-web) 🚀 Done :heavy_check_mark:
 
 ## :open_book: Notion com anotações de cada aula:
 
