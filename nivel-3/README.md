@@ -10,12 +10,13 @@
 
 - [02 - Iniciando front-end web - Go Barber](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/02-gobarber-web) 🚀 Done :heavy_check_mark:
 
-- [02 - Iniciando App Mobile - Go Barber App](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/02-gobarber-web) 🚀 Done :heavy_check_mark:
+- [02 - Iniciando App Mobile - Go Barber App](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/03-appgobarber) 🚀 Done :heavy_check_mark:
 
 ## :open_book: Notion com anotações de cada aula:
 
 - [01 - Primeiro Projeto com React](https://www.notion.so/Primeiro-Projeto-com-React-e823ce10436a4855a03369f6caac8454)
 - [02 - Iniciando front-end web](https://www.notion.so/Iniciando-front-end-do-App-b12e585bde134f4f848d72011a572c97)
+- [02 - Iniciando App Mobile - Go Barber App](https://www.notion.so/Iniciando-Aplicativo-Mobile-40a4226d55494438ace779f552fe952c)
 
 ## :memo: Licença
 
