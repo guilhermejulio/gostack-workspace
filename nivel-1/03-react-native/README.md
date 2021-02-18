@@ -26,7 +26,7 @@
 
 ## 💻 Project
 
-Projeto para criação da aplicação mobile utilizando React Native e consumindo a API desenvolvida anteriormente na [aula-1](../aula-1-nodejs).
+Projeto para criação da aplicação mobile utilizando React Native e consumindo a API desenvolvida anteriormente na [aula-1](../01-nodejs).
 
 ## 🚀 Instalação e execução
 ⚠️ ATENÇÂO! ⚠️
@@ -35,10 +35,10 @@ Projeto para criação da aplicação mobile utilizando React Native e consumind
 Neste caso, a aplicação rodou no dispositivo fisico via USB ADB, consulte a configuração desejada para rodar de acordo com seu ambiente.
 
 É necessário rodar o backend criado anteriormente 
-na [aula-1](../aula-1-nodejs).
+na [aula-1](../01-nodejs).
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd gostack-exercicios/nivel-1/aula-3-react-native`;
+2. Entre na pasta rodando `cd gostack-exercicios/nivel-1/03-react-native`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `npx react-native run-android` ou `yarn android` para buildar.
 

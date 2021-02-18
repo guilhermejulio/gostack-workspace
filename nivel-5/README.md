@@ -14,11 +14,11 @@
 
 ## :open_book: Notion com anotações de cada aula:
 
-- [01 - Finalizando front-end do App]() :construction: In progress.. :construction:
+- [01 - Finalizando front-end do App](https://www.notion.so/Finalizando-front-end-do-App-62f237cd648a47bf94328b83134aa95e) :construction: In progress.. :construction:
 
-- [02 - Finalizando front-end mobile do App]() :construction: In progress.. :construction:
+- [02 - Finalizando front-end mobile do App](https://www.notion.so/Finalizando-front-end-mobile-do-App-20c26113aa3f4ad8b6ae2f0217036d65) :construction: In progress.. :construction:
 
-- [03 - Testes no React JS]() :construction: In progress.. :construction:
+- [03 - Testes no React JS](https://www.notion.so/Testes-no-React-JS-69b79598048a447abf1cb9f046999500) :construction: In progress.. :construction:
 
 ## :memo: Licença
 

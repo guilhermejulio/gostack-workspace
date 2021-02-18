@@ -26,16 +26,16 @@
 
 ## 💻 Project
 
-Projeto para criação do frontend utilizando ReactJS e consumindo a API desenvolvida anteriormente na [aula-1](../aula-1-nodejs).
+Projeto para criação do frontend utilizando ReactJS e consumindo a API desenvolvida anteriormente na [aula-1](../01-nodejs).
 
 ## 🚀 Instalação e execução
 ⚠️ ATENÇÂO! ⚠️
 
 É necessário rodar o backend criado anteriormente 
-na [aula-1](../aula-1-nodejs).
+na [aula-1](../01-nodejs).
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-1/aula-2-react`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-1/02-react`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev` para iniciar o servidor.
 

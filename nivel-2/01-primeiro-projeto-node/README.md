@@ -12,19 +12,19 @@
   <a href="https://www.linkedin.com/in/guilhermejulio/">
     <img alt="Made by Guilherme Julio" src="https://img.shields.io/badge/made--by-Guilherme%20Julio-green">
   </a>
-  
+
   <a href="https://github.com/guilhermejulio/gostack-exercicios/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/guilhermejulio/gostack-exercicios">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">	
-	
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
 </p>
 
 <hr>
 <br/>
 
-   
+
 ## ℹ️ Informações extras
 Foi iniciado a criação do back-end da aplicação Go Barber, sendo trabalhado os objetivos de criação de um agendamento.
 
@@ -33,7 +33,7 @@ As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-2/primeiro-projeto-node`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-2/01-primeiro-projeto-node`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev:server` para iniciar o servidor.
 
