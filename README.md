@@ -17,7 +17,7 @@
 - ### NIVEL 3
 - [07 - Primeiro projeto com React](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/aula-1-primeiro-projeto-react) 🚀 Done :heavy_check_mark:
 - [08 - Iniciando front-end web - Go Barber](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/02-gobarber-web) 🚀 Done :heavy_check_mark:
-- [09 - Iniciando Aplicativo Mobile](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/appgobarber) :construction: In progress.. :construction:
+- [09 - Iniciando Aplicativo Mobile](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/appgobarber) 🚀 Done :heavy_check_mark:
 
 - ### NIVEL 4
 - [10 - Arquitetura e testes no Node.js]() :construction: In progress.. :construction:
