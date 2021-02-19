@@ -32,7 +32,7 @@ As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-2/02-iniciando-back-end`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-2/02-gobarber-backend`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev:server` para iniciar o servidor.
 
