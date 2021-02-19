@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Iniciando o back-end do App.
+  Arquitetura e testes Node JS
 </h3>
 
-<p align="center">Código do segundo módulo do segundo nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do primeiro módulo do quarto nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermejulio/">
@@ -27,12 +27,12 @@
 
 ## ℹ️ Informações extras
 
-As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion.so/Iniciando-o-back-end-do-App-5a70acb0cfae44b5ada89ece13bd3376).
+As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion.so/Arquitetura-e-testes-Node-JS-5d5a2c750e36462098d011af53047da1).
 
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-2/02-iniciando-back-end`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-2/01-gobarber-backend`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev:server` para iniciar o servidor.
 
