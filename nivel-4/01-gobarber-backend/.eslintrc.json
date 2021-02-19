@@ -27,14 +27,14 @@
     "@typescript-eslint/no-unused-vars" :["error", {
       "argsIgnorePattern": "_"
     }],
-    // "@typescript-eslint/naming-convention": [
-    //   "error",
-    //   {
-    //     "selector": "interface",
-    //     "prefix": ["I"],
-    //     "format": ["PascalCase"]
-    //   }
-    // ],
+    "@typescript-eslint/naming-convention": [
+      "error",
+      {
+        "selector": "interface",
+        "prefix": ["I"],
+        "format": ["PascalCase"]
+      }
+    ],
     "class-methods-use-this":"off",
     "import/extensions": [
       "error",
