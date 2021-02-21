@@ -20,7 +20,7 @@
 - [09 - Iniciando Aplicativo Mobile](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/appgobarber) 🚀 Done :heavy_check_mark:
 
 - ### NIVEL 4
-- [10 - Arquitetura e testes no Node.js]() :construction: In progress.. :construction:
+- [10 - Arquitetura e testes no Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
 - [11 - Continuando Back-end do app]() :construction: In progress.. :construction:
 - [12 - Finalizando Back-end do app]() :construction: In progress.. :construction:
 - ### NIVEL 5
