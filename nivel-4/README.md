@@ -8,7 +8,7 @@
 
 - [01 - Arquitetura e testes no Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
 
-- [02 - Continuando o back-end do App]() :construction: In progress.. :construction:
+- [02 - Continuando o back-end do App](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
 
 - [02 - Finalizando o back-end do App]() :construction: In progress.. :construction:
 
@@ -16,9 +16,7 @@
 
 - [01 - Arquitetura e testes no Node.js](https://www.notion.so/Arquitetura-e-testes-Node-JS-5d5a2c750e36462098d011af53047da1) :construction: In progress.. :construction:
 
-- [02 - Continuando o back-end do App](https://www.notion.so/Continuando-o-back-end-do-App-cb03e0321a394e399f38d7296c6bf80d) :construction: In progress.. :construction:
-
-- [02 - Finalizando o back-end do App](https://www.notion.so/Finalizando-o-back-end-do-App-13980ca3672b4b6589fbd9609c6d4553) :construction: In progress.. :construction:
+Obs. a partir do nível 4 não foram feitas mais anotações no Notion, as anotações de React, React Native, Node, e qualquer outro conteudo do treinamento seguiram no repositorio do [Ignite]().
 
 ## :memo: Licença
 
