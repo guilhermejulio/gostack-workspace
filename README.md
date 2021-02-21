@@ -32,12 +32,11 @@
 - [17 - Deploy de aplicações React.js]() :construction: In progress.. :construction:
 - [18 - Publicação de apps com React Native]() :construction: In progress.. :construction:
 
+--- 
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 ## Info
 
