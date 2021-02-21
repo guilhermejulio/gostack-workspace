@@ -33,12 +33,15 @@
 - [18 - Publicação de apps com React Native]() :construction: In progress.. :construction:
 
 
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+
+## Info
+
+Conforme a [Rocketseat](https://rocketseat.com.br/) anunciou, o treinamento GO Stack chegou ao fim, e com o seu fim nasceu o [Ignite](), o meu repositorio do Ignite neste mesmo estilo, com anotações no Notion, e commits de cada aula, estará disponivel [neste link]() a partir de Março de 2021.
 
 ## :writing_hand: Créditos
 
