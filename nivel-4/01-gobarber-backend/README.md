@@ -6,7 +6,7 @@
   Arquitetura e testes Node JS
 </h3>
 
-<p align="center">Código do primeiro módulo do quarto nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do primeiro e segundo módulo do quarto nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermejulio/">
