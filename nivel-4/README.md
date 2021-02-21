@@ -6,7 +6,7 @@
 
 ## Índice das aulas do NÍVEL 4
 
-- [01 - Arquitetura e testes no Node.js]() :construction: In progress.. :construction:
+- [01 - Arquitetura e testes no Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
 
 - [02 - Continuando o back-end do App]() :construction: In progress.. :construction:
 
