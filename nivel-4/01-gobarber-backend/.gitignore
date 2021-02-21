@@ -6,5 +6,5 @@ build/
 tmp/*
 !tmp/.gitkeep
 temp/
-
+coverage
 tmp/uploads/*
