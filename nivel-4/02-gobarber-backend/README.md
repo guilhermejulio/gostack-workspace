@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Arquitetura e testes Node JS
+  Finalizando o Back-end
 </h3>
 
-<p align="center">Código do primeiro e segundo módulo do quarto nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center">Código do terceiro módulo do quarto nível <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermejulio/">
@@ -27,7 +27,7 @@
 
 ## ℹ️ Informações extras
 
-As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion.so/Arquitetura-e-testes-Node-JS-5d5a2c750e36462098d011af53047da1).
+Obs. os arquivos deste modulo especificamente segue o repositório da [Rocketseat](https://github.com/rocketseat-education/bootcamp-gostack-modulos/tree/master/nivel-04/02-finalizando-backend-do-app), devido a configurações de serviços externos que devem ser feitos por cada desenvolvedor, exemplo: Amazon SES.
 
 ## 🚀 Instalação e execução
 
@@ -37,6 +37,7 @@ As anotações do modulo no Notion podem ser acessadas [aqui](https://www.notion
 4. Rode `yarn dev:server` para iniciar o servidor.
 
 Obs. Necessário ter também o banco de dados, foi usado o PostgreSQL, veja as anotações.
+
 
 ## :memo: Licença
 
