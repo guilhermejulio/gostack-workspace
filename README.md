@@ -21,7 +21,7 @@
 
 - ### NIVEL 4
 - [10 - Arquitetura e testes no Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
-- [11 - Continuando Back-end do app]() :construction: In progress.. :construction:
+- [11 - Continuando Back-end do app](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
 - [12 - Finalizando Back-end do app]() :construction: In progress.. :construction:
 - ### NIVEL 5
 - [13 - Finalizando Front-end do app]() :construction: In progress.. :construction:
