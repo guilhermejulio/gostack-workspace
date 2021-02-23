@@ -25,11 +25,11 @@
 - [12 - Finalizando Back-end do app](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/02-gobarber-backend) 🚀 Done :heavy_check_mark:
 - 
 - ### NIVEL 5
-- [13 - Finalizando Front-end do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/01-gobarber-front-end) 🚀 Done :heavy_check_mark:
-- [14 - Finalizando Front-end mobile do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/final-appgobarber) 🚀 Done :heavy_check_mark:🚀 Done :heavy_check_mark:
-- [15 - Testes no React.js](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/01-gobarber-front-end) 🚀 Done :heavy_check_mark:
+- [13 - Finalizando Front-end do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5-6/01-gobarber-front-end) 🚀 Done :heavy_check_mark:
+- [14 - Finalizando Front-end mobile do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5-6/final-appgobarber) 🚀 Done :heavy_check_mark:🚀 Done :heavy_check_mark:
+- [15 - Testes no React.js](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5-6/01-gobarber-front-end) 🚀 Done :heavy_check_mark:
 - ### FINAL
-- [FINAL - Go Barber App](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/final-appgobarber) 🚀 Done :heavy_check_mark:
+- [FINAL - Go Barber App](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5-6/final-appgobarber) 🚀 Done :heavy_check_mark:
 
 --- 
 
