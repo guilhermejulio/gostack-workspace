@@ -7,9 +7,9 @@
 ## Índice das aulas do NÍVEL 5
 
 - [01 - Finalizando front-end do App](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/01-gobarber-front-end) 🚀 Done :heavy_check_mark:
-- [02 - Finalizando front-end mobile do App]() :construction: In progress.. :construction:
+- [02 - Finalizando front-end mobile do App](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/final-appgobarber) 🚀 Done :heavy_check_mark:
 
-- [03 - Testes no React JS]() :construction: In progress.. :construction:
+- [03 - Testes no React JS](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/01-gobarber-front-end) :construction: In progress.. :construction:
 
 ## :open_book: Notion com anotações de cada aula:
 
