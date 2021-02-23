@@ -28,7 +28,7 @@
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-3/final-appgobarber`;
+2. Entre na pasta rodando `cd bootcamp-gostack-exercicios/nivel-5/final-appgobarber`;
 3. Rode `yarn` para instalar as dependências;
 4. Execute de acordo com seu dispositivo, consulte [aqui](https://react-native.rocketseat.dev/usb/android)
 
