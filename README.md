@@ -26,12 +26,10 @@
 - 
 - ### NIVEL 5
 - [13 - Finalizando Front-end do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/01-gobarber-front-end) 🚀 Done :heavy_check_mark:
-- [14 - Finalizando Front-end mobile do app]() :construction: In progress.. :construction:
-- [15 - Testes no React.js]() :construction: In progress.. :construction:
-- ### NIVEL 6
-- [16 - Deploy de aplicações Node.js]() :construction: In progress.. :construction:
-- [17 - Deploy de aplicações React.js]() :construction: In progress.. :construction:
-- [18 - Publicação de apps com React Native]() :construction: In progress.. :construction:
+- [14 - Finalizando Front-end mobile do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/final-appgobarber) 🚀 Done :heavy_check_mark:🚀 Done :heavy_check_mark:
+- [15 - Testes no React.js](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/01-gobarber-front-end) 🚀 Done :heavy_check_mark:
+- ### FINAL
+- [FINAL - Go Barber App](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5/final-appgobarber) 🚀 Done :heavy_check_mark:
 
 --- 
 
