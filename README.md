@@ -7,22 +7,22 @@
 - ## Índice das aulas
 
 - ### NIVEL 1
-- [01 - Back-end com Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-1-nodejs) 🚀 Done :heavy_check_mark:
-- [02 - Front-end com React.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-2-react) 🚀 Done :heavy_check_mark:
-- [03 - Mobile com React Native](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-3-react-native) 🚀 Done :heavy_check_mark:
-- [04 - TypeScript](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-1/aula-4-typescript) 🚀 Done :heavy_check_mark:
+- [01 - Back-end com Node.js](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-1/01-nodejs) 🚀 Done :heavy_check_mark:
+- [02 - Front-end com React.js](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-1/02-react) 🚀 Done :heavy_check_mark:
+- [03 - Mobile com React Native](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-1/03-react-native) 🚀 Done :heavy_check_mark:
+- [04 - TypeScript](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-1/04-typescript) 🚀 Done :heavy_check_mark:
 - ### NIVEL 2 
-- [05 - Primeiro projeto com Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/primeiro-projeto-node) 🚀 Done :heavy_check_mark:
-- [06 - Iniciando Back-end do app - Go Barber](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-2/aula-2-iniciando-back-end) 🚀 Done :heavy_check_mark:
+- [05 - Primeiro projeto com Node.js](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-2/01-primeiro-projeto-node) 🚀 Done :heavy_check_mark:
+- [06 - Iniciando Back-end do app - Go Barber](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-2/02-gobarber-backend) 🚀 Done :heavy_check_mark:
 - ### NIVEL 3
-- [07 - Primeiro projeto com React](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/aula-1-primeiro-projeto-react) 🚀 Done :heavy_check_mark:
-- [08 - Iniciando front-end web - Go Barber](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/02-gobarber-web) 🚀 Done :heavy_check_mark:
-- [09 - Iniciando Aplicativo Mobile](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-3/appgobarber) 🚀 Done :heavy_check_mark:
+- [07 - Primeiro projeto com React](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-3/01-primeiro-projeto-react) 🚀 Done :heavy_check_mark:
+- [08 - Iniciando front-end web - Go Barber](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-3/02-gobarber-web) 🚀 Done :heavy_check_mark:
+- [09 - Iniciando Aplicativo Mobile](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-3/03-appgobarber) 🚀 Done :heavy_check_mark:
 
 - ### NIVEL 4
-- [10 - Arquitetura e testes no Node.js](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
-- [11 - Continuando Back-end do app](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
-- [12 - Finalizando Back-end do app](https://github.com/guilhermejulio/gostack-exercicios/tree/master/nivel-4/02-gobarber-backend) 🚀 Done :heavy_check_mark:
+- [10 - Arquitetura e testes no Node.js](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-4/01-gobarber-backend) 🚀 Done :heavy_check_mark:
+- [11 - Continuando Back-end do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-4/02-gobarber-backend) 🚀 Done :heavy_check_mark:
+- [12 - Finalizando Back-end do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-4/02-gobarber-backend) 🚀 Done :heavy_check_mark:
 - 
 - ### NIVEL 5
 - [13 - Finalizando Front-end do app](https://github.com/guilhermejulio/gostack-workspace/tree/master/nivel-5-6/01-gobarber-front-end) 🚀 Done :heavy_check_mark:
