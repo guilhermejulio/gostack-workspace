@@ -4,6 +4,12 @@
   Exercícios das aulas Bootcamp GoStack 🚀
 </h2>
 
+<p align="center">
+  Acesse aqui as anotações que realizei no Notion: <a href="https://www.notion.so/GoStack-Workspace-e4e76389a265426582bb2871d5607c2b">GoStack Workspace - Notion</a></p>
+  
+  <p align="center">Acesse o repositório de desafios do bootcamp: <a href="https://github.com/guilhermejulio/gostack-desafios">GoStack Desafios</a></p>
+
+
 - ## Índice das aulas
 
 - ### NIVEL 1
